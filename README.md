@@ -5,4 +5,5 @@
 ```bash
   1、克隆该js到项目
   2、使用script标签在header标签中引入即可
+  注意：详情参见网址 http://yunkus.com/mobile-adaptation-scheme-flexiblejs/
 ```
